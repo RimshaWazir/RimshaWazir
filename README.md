@@ -85,13 +85,15 @@ Welcome to my GitHub portfolio! Here you can go ahead and explore my featured pr
 
 ---
 
-## 📞 Contact Me
+## 📫 Let's Connect
 
 Do you have a project idea or need help with app/web development? Reach out to me!  
 
-📧 **Email**: rimshawazir48@gmail.com  
-💼 **LinkedIn**: [https://www.linkedin.com/in/rimshakhan-flutterdeveloper/](#)  
-🔗 **GitHub**: [https://github.com/RimshaWazir](#)
+- 📧 **Email**: rimshawazir48@gmail.com  
+- 💼 **LinkedIn**: [Rimsha Khan LinkedIn](https://www.linkedin.com/in/rimshakhan-flutterdeveloper/)  
+- 🔗 **GitHub**: [RimshaWazir GitHub](https://github.com/RimshaWazir)  
+- 🌟 **Fiverr**: [RimshaWazir Fiverr](https://www.fiverr.com/rimsha_khan48?public_mode=true)  
+- 💼 **Upwork**: [RimshaWazir Upwork](https://www.upwork.com/freelancers/~01061199983d131bbc)  
 
 ---
 

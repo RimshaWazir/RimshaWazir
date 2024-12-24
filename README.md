@@ -1,6 +1,6 @@
 # Hey there! 👋 Welcome to my GitHub! 😁
 
-![Black and Yellow Web Developer LinkedIn Banner (2)](https://github.com/user-attachments/assets/68dadc37-a01b-4db9-8ee9-55c66efea1e6)
+![Black And White Modern Career Progression LinkedIn Banner](https://github.com/user-attachments/assets/a8c0ecb5-d479-401a-bf42-d194e4a6579c)
 
 
 Welcome to my GitHub portfolio! Here you can go ahead and explore my featured projects and services. Each project is designed with passion, innovation, and a focus on delivering the best user experience. 🚀
